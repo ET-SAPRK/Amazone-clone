@@ -1,0 +1,37 @@
+[debug] [2021-12-17T11:22:58.360Z] ----------------------------------------------------------------------
+[debug] [2021-12-17T11:22:58.363Z] Command:       C:\Program Files\nodejs\node.exe D:\amazone\amazon-clone\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-12-17T11:22:58.363Z] CLI Version:   9.23.1
+[debug] [2021-12-17T11:22:58.363Z] Platform:      win32
+[debug] [2021-12-17T11:22:58.364Z] Node Version:  v16.13.0
+[debug] [2021-12-17T11:22:58.365Z] Time:          Fri Dec 17 2021 03:22:58 GMT-0800 (Pacific Standard Time)
+[debug] [2021-12-17T11:22:58.366Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-12-17T11:22:58.434Z] Field ".emulators.functions.port" in "firebase.json" is possibly invalid: should be number
+[debug] [2021-12-17T11:22:58.441Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-12-17T11:22:58.441Z] > authorizing via signed-in user (samuelwoyesso2016@gmail.com)
+[debug] [2021-12-17T11:22:58.442Z] Field ".emulators.functions.port" in "firebase.json" is possibly invalid: should be number
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\amazone\amazon-clone
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2021-12-17T11:23:12.649Z] Using project from CLI flag: e-challenge-80c57
+[debug] [2021-12-17T11:23:12.654Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/e-challenge-80c57 [none]
+[debug] [2021-12-17T11:23:42.673Z] Timeout reached making request to https://firebase.googleapis.com/v1beta1/projects/e-challenge-80c57
